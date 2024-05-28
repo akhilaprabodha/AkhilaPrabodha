@@ -9,8 +9,9 @@
 - Signal Processing
 - Robotics
 - IoT Devices Designing
-- PCB Designing
+- Advance PCB Designing
+- CAD 3D Designing
 
 ## Contact Information
-- **Email:** akhilaprabodha0010@gnail.com
+- **Email:** akhilaprabodha0010@gmail.com
 - **Webmail:** prabodhakpka.21@uom.lk
