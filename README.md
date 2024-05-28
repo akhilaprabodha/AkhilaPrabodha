@@ -1,6 +1,6 @@
-# Pulindu Vidmal
+# Akila Prabodha
 
-**Undergraduate Student, Electronic and Telecommunication Engineering**  
+**Electronic and Telecommunication Engineering Undergraduate**  
 **University of Moratuwa, Sri Lanka**
 
 ## Interest Areas
@@ -11,5 +11,5 @@
 - Robotics
 
 ## Contact Information
-- **Email:** pulinduvidmal552@gmail.com
-- **Email:** vidmalhvp.21@uom.lk
+- **Email:** akhilaprabodha0010@gnail.com
+- **Email:** prabodhakpka.21@uom.lk
