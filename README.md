@@ -13,4 +13,4 @@
 
 ## Contact Information
 - **Email:** akhilaprabodha0010@gnail.com
-- **Email:** prabodhakpka.21@uom.lk
+- **Webmail:** prabodhakpka.21@uom.lk
