@@ -10,7 +10,7 @@
 - Signal Processing
 - Robotics
 - Advance PCB Designing
-- CAD 3D Designing
+- 3D CAD Designing
 
 ## Contact Information
 - **Email:** akhilaprabodha0010@gmail.com
