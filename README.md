@@ -4,7 +4,6 @@
 **University of Moratuwa, Sri Lanka**
 
 ## Interest Areas
-- IoT Devices Designing
 - Computer Vision
 - Machine Learning
 - Signal Processing
