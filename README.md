@@ -27,4 +27,4 @@ Connect with me:
 </a>
 </h3>
 
-<img src="https://github.com/akhilaprabodha/AkhilaPrabodha/blob/main/profile-3d-contrib/profile-night-green.svg" style="width: 100%;" />
+<!-- <img src="https://github.com/akhilaprabodha/AkhilaPrabodha/blob/main/profile-3d-contrib/profile-night-green.svg" style="width: 100%;" />-->
