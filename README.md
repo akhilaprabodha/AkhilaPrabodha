@@ -9,7 +9,8 @@
 </div>
 
 - 🎓Electronic & Telecommunication Engineering Undergraduate Student at [University of Moratuwa](https://uom.lk/), SriLanka.
-- 🚀 I'm enthusiastic about Computer Vision, Machine Learning and Robotics!
+- 🔬 Former Research Assistant at [DManD Centre](https://dmand.sutd.edu.sg/about/), SUTD, Singapore.
+- 🚀 I'm enthusiastic about Computer Vision, Machine Learning, Robotics, Deep Learning, Image Analysis, and Healthcare AI!
 
 <h3 align="left">
   Connect with me:
