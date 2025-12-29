@@ -14,13 +14,15 @@
 <h3 align="left">
   Connect with me:
   <a href="https://www.linkedin.com/in/akhilaprabodha/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="30" />
   </a>
+  
   <a href="mailto:akhilaprabodha0010@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
   </a>
+  
   <a href="mailto:prabodhakpka.21@uom.lk" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="University Email" height="40" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="University Email" height="30" width="30" />
   </a>
 </h3>
 
